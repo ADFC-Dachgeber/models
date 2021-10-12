@@ -1,0 +1,10 @@
+{
+  "name": "models",
+  "version": "0.0.1",
+  "description": "Models of ADFC-Dachgeber projects.",
+  "main": "index.js",
+  "repository": "https://github.com/ADFC-Dachgeber/models",
+  "author": "Taro Murao",
+  "license": "MIT",
+  "private": false
+}
