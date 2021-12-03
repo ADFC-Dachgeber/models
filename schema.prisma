@@ -1,7 +1,7 @@
 // Data source
 datasource db {
   provider = "postgresql"
-  url      = `postgresql://postgres:${env("PG_PASSWORD")}@env{"PG_HOST)}:5432/dg`
+  url      = env("DATABASE_URL")
 }
 
 // Generator
